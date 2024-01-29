@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fde3838fd399e3c46a28a3941b1f029a, type: 3}
+  m_Name: ActiveSkinsPool
+  m_EditorClassIdentifier: 
+  _activeSkins:
+  - {fileID: 6910018094014504982, guid: 210a326b55ed03a4cad72422d4be7162, type: 3}
+  - {fileID: 3790708786954439164, guid: de485b6ecc9941143a0a10aee3fb256e, type: 3}
+  - {fileID: 6108154866148340738, guid: 5bd7471636defbb40990c2a223083f11, type: 3}
+  - {fileID: 7545738409850454211, guid: cc1cde0baff99ff4fbdda089fc81429f, type: 3}
+  - {fileID: 4631458281955288812, guid: 3e83458e2d1443c49a13259e9b73679a, type: 3}
+  - {fileID: 4107301571346334675, guid: a0f361ac4ab27ba4ca6cde976c1a9eaf, type: 3}
+  - {fileID: 2948839384895068020, guid: 01e915aad4d319b4d9e6022a9fc0de54, type: 3}
+  - {fileID: 6212642255889834803, guid: 7aa88f5b001d52041b22e8c92bd672fb, type: 3}
+  - {fileID: 640625851970957023, guid: 2673968fb70f4364f8232219407394d6, type: 3}
+  - {fileID: 6782376810488720147, guid: 6d5a7cf5e5d23664085954d99c75ff41, type: 3}
+  - {fileID: 2294886555857832159, guid: 5f6ad22b55c59274689f8730f6701130, type: 3}
+  - {fileID: 3956878451668349414, guid: 829188972bae75843ba1859d025d8a01, type: 3}
